@@ -1,0 +1,3 @@
+# JSON Log Parser & Analyzer 📜
+
+A Python command-line tool for parsing, analyzing, and filtering structured JSON log files (`.jsonl`). Ideal for quickly debugging application logs and summarizing key information from the terminal.

@@ -1,0 +1,6 @@
+{"timestamp": "2025-11-01T10:00:00Z", "level": "INFO", "user_id": "user-123", "message": "User logged in successfully"}
+{"timestamp": "2025-11-01T10:05:15Z", "level": "WARNING", "user_id": "user-123", "message": "API response time is slow: 2500ms"}
+{"timestamp": "2025-11-01T10:10:30Z", "level": "ERROR", "user_id": "user-456", "service": "database", "message": "Failed to connect to primary database."}
+{"timestamp": "2025-11-01T10:11:00Z", "level": "DEBUG", "user_id": "user-456", "message": "Retrying connection in 5s..."}
+{"timestamp": "2025-11-01T10:15:45Z", "level": "INFO", "user_id": "user-789", "message": "Payment processed for order #9876"}
+{"timestamp": "2025-11-01T10:20:00Z", "level": "ERROR", "user_id": "user-123", "service": "payment", "message": "Credit card declined."}
